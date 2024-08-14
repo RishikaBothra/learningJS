@@ -9,7 +9,7 @@ node <filename>.js
 let in `JavaScript` is used to declare a variable. It is similar to `var` but has some differences.
 
 ```javascript
-let name = "Rishika";
+let name = "john";
 
 console.log("Hello " + name + "!");
 ```
@@ -17,8 +17,8 @@ console.log("Hello " + name + "!");
 `const` keyword in `JavaScript` is used to declare a constant variable. The value of a constant variable cannot be changed once it is assigned.
 
 ```javascript
-const name = "Rishika";
-name = "Aditya";
+const name = "john";
+name = "doe";
 
 console.log("Hello " + name + "!");
 ```
